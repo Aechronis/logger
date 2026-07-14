@@ -26,7 +26,7 @@ dependencies {
     implementation("net.minestom:minestom:2026.03.25-1.21.11")
 
     // database
-    implementation("org.xerial:sqlite-jdbc:3.49.1.0")
+    implementation("org.xerial:sqlite-jdbc:3.53.2.0")
     implementation("com.zaxxer:HikariCP:6.2.1")
 
     // testing
